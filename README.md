@@ -3,9 +3,9 @@
 This application demonstrates how to compute the Pareto-Front of a given
 data set using a R-Tree.
 
-"The Pareto front is defined as the set of non-dominated solutions, where each objective is considered as equally good"
+<a href="https://www.sciencedirect.com/topics/engineering/pareto-front#:~:text=The%20Pareto%20front%20is%20defined,Handbook%20of%20Neural%20Computation%2C%202017">
+"The Pareto front is defined as the set of non-dominated solutions, where each objective is considered as equally good"</a>
 
-https://www.sciencedirect.com/topics/engineering/pareto-front#:~:text=The%20Pareto%20front%20is%20defined,Handbook%20of%20Neural%20Computation%2C%202017
 
 A pareto-front is typically used in genetic algorithms, in which many objectives are defined, the application
 of a multi-dimensional tree structure such as the R-Tree is a perfect for this problem.
